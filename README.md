@@ -1,7 +1,7 @@
 # 🖥️ Python GUI for Sensor Monitoring
 
 ![Project Diagram](./Schematic.png)
-![GUI](./GUI.png)
+![GUI](./GUI.jpeg)
 ## 📌 Key Points
 
 - Developed a **Graphical User Interface (GUI)** in **Python**.  
